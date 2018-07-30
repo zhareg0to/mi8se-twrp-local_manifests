@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<!-- mi8se device tree -->
+<!-- device tree -->
+<!-- mi8se -->
 <remote name="zhareg0to" fetch="https://github.com/zhareg0to/" />
 <project path="device/xiaomi/mi8se" name="android_device_xiaomi_mi8se_twrp" groups="device" remote="zhareg0to" revision="android-8.1" />
 
