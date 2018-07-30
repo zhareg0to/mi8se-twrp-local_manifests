@@ -4,6 +4,7 @@
 <remote name="zhareg0to" fetch="https://github.com/zhareg0to/" />
 <project path="device/xiaomi/sirius" name="android_device_xiaomi_mi8se_twrp" groups="device" remote="zhareg0to" revision="android-8.1" />
 
+<!-- source replace -->
 <!-- twrp source -->
 ＜remote name="TeamWin" fetch="https://github.com/TeamWin/" />
 ＜remove-project name="android_bootable_recovery" path="bootable/recovery" />
