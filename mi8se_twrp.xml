@@ -7,9 +7,8 @@
 
 <!-- source replace -->
 <!-- twrp source -->
-<!--
-＜remote name="TeamWin" fetch="https://github.com/TeamWin/" />
-＜remove-project name="android_bootable_recovery" path="bootable/recovery" />
-＜project name="TeamWin/Team-Win-Recovery-Project" path="bootable/recovery" remote="TeamWin" revision="android-8.1" />
- -->
+<remote name="TeamWin" fetch="https://github.com/TeamWin/" />
+<remove-project name="android_bootable_recovery" path="bootable/recovery" />
+<project name="TeamWin/Team-Win-Recovery-Project" path="bootable/recovery" remote="TeamWin" revision="android-8.1" />
+<project name="TeamWin/android_external_busybox" path="external/busybox" remote="github" revision="android-8.0" />
 </manifest>
